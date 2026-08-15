@@ -35,7 +35,6 @@ Official documentation: https://docs.opencv.org/
 * 🐍 Python
 * 👁️ OpenCV
 * 🔢 NumPy
-* 📓 Jupyter Notebook
 
 ---
 
