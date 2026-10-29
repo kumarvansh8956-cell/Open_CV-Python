@@ -237,15 +237,15 @@ This makes NumPy extremely important for OpenCV because many low-level image ope
 * [x] HSV
 * [x] LAB
 * [x] YCrCb
-* [ ] Image transformations
-* [ ] Filtering
-* [ ] Thresholding
-* [ ] Edge detection
-* [ ] Morphological operations
-* [ ] Contours
-* [ ] Histograms
-* [ ] Video processing
-* [ ] Object detection
+* [x] Image transformations
+* [x] Filtering
+* [x] Thresholding
+* [x] Edge detection
+* [x] Morphological operations
+* [x] Contours
+* [x] Histograms
+* [x] Video processing
+* [x] Object detection
 
 ---
 
